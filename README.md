@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 💻 ┇I'm a Javascript Developer from <b>São Paulo, <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="15"/> Brasil</b>;<br />
-🎤 ┇Also a Live Coder at <a href="https://twitch.tv/csorlandi"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968819.png" width="15"/> <b>twitch.tv/csorlandi</b></a>;<br />
+🎤 ┇Also a Live Coder at <a href="https://twitch.tv/cssorlandi"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968819.png" width="15"/> <b>twitch.tv/cssorlandi</b></a>;<br />
 💾 ┇Few tech that I enjoy working in are ReactJS, React Native, Typescript, Git, GraphQL and Notion;<br />
 😍 ┇Passionate about education, challanges and solving problem with technology;<br />
 
@@ -37,13 +37,13 @@
 
 ## 😇 My Github Stats:
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=csorlandi&style=for-the-badge)](https://github.com/csorlandi/csorlandi)
-[![Repos Badge](https://badges.strrl.dev/repos/csorlandi?style=for-the-badge&color=007ACC)](https://github.com/csorlandi?tab=repositories)
+[![Visits Badge](https://komarev.com/ghpvc/?username=cssorlandi&style=for-the-badge)](https://github.com/cssorlandi/cssorlandi)
+[![Repos Badge](https://badges.strrl.dev/repos/cssorlandi?style=for-the-badge&color=007ACC)](https://github.com/cssorlandi?tab=repositories)
 
 ---
 
 <p align="center">
-  <img width="42%" src = "https://github-readme-stats.vercel.app/api?username=csorlandi&count_private=true&show_icons=true&theme=algolia&line_height=27">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csorlandi&langs_count=3&layout=compact&theme=algolia" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=csorlandi&theme=algolia" alt="#csorlandi" />
+  <img width="42%" src = "https://github-readme-stats.vercel.app/api?username=cssorlandi&count_private=true&show_icons=true&theme=algolia&line_height=27">
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssorlandi&langs_count=3&layout=compact&theme=algolia" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cssorlandi&theme=algolia" alt="#cssorlandi" />
 </p>
